@@ -26,4 +26,4 @@ Caso precise de uma explicação visual detalhada de como abrir o Google Colab e
 Nome: Jerry Leandro da Silva
 Matrícula: 20170114647
 
-Espero que essas instruções tenham sido úteis para você iniciar seu trabalho com o Google Colab. Se tiver alguma dúvida, não hesite em entrar em contato. Bom trabalho!
+
